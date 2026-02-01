@@ -29,6 +29,9 @@ The dashboard provides an at-a-glance view of the most important metrics:
 
 ---
 
+<img width="1307" height="760" alt="image" src="https://github.com/user-attachments/assets/7353fa82-a2b2-4304-9f37-ee1787813e0c" />
+
+
 ## Features
 
 -   **Interactive Dashboard**: All visuals are cross-filtered, allowing for dynamic exploration of the data.
